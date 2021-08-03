@@ -1,8 +1,8 @@
-### Hello there
+# Hello there
 
-## Hello my name is Fernando. I am a Game Developer/Director in an indie team called Sharpman Games and an Organization Manager in 3Pixel Studios.
+### Hello my name is Fernando. I am a Game Developer/Director in an indie team called Sharpman Games and an Organization Manager in 3Pixel Studios.
 
-# What I do:
+## What I do:
 - 🔭 I’m currently working on Games
 - 🌱 I’m currently learning GDScript, Game Design, Pixel Art, ...
 - 👯 I’m looking to collaborate on Game Developing
@@ -12,7 +12,7 @@
 - 😄 Pronouns: he/him or they/them, whatever, I don't care
 - ⚡ Fun fact: I'm pretty epic 😎
 
-# My socials:
+## My socials:
 [Twitter] (https://twitter.com/n3cr0jr)
 [reddit] (https://www.reddit.com/user/n3cr0jr)
 [Steam] (https://steamcommunity.com/profiles/76561198121630240)
