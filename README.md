@@ -1,6 +1,6 @@
 # Hello there
 
-### Hello my name is Fernando. I am a Game Developer/Director in an indie team called Sharpman Games and an Organization Manager in 3Pixel Studios.
+### Hello my name is Fernando. I am a Game Developer/Director in an indie team called Sharpman Games and an Organization Manager at 3Pixel Studios.
 
 ## What I do:
 - 🔭 I’m currently working on Games
