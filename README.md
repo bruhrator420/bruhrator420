@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm pretty epic 😎
 
 ## My socials:
-[Twitter] (https://twitter.com/n3cr0jr)
-[reddit] (https://www.reddit.com/user/n3cr0jr)
-[Steam] (https://steamcommunity.com/profiles/76561198121630240)
+[Twitter](https://twitter.com/n3cr0jr)
+[reddit](https://www.reddit.com/user/n3cr0jr)
+[Steam](https://steamcommunity.com/profiles/76561198121630240)
 -->
