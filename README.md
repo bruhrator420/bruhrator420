@@ -9,11 +9,11 @@
 - 🤔 I’m looking for help with Godot, GDScript
 - 💬 Ask me about Anything
 - 📫 How to reach me: n3cr0jr#5031 on Discord
-- 😄 Pronouns: he/him or they/them, whatever, I don't care
+- 😄 Pronouns: my pronouns are racial/slurs/c u/m
 - ⚡ Fun fact: I'm pretty epic 😎
 
 ## My socials:
-[Twitter](https://twitter.com/n3cr0jr)
+follow me on [Twitter](https://twitter.com/n3cr0jr) and get a life:
 
 [reddit](https://www.reddit.com/user/n3cr0jr)
 
