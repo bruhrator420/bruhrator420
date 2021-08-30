@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with Godot, GDScript
 - 💬 Ask me about Anything
 - 📫 How to reach me: n3cr0jr#5031 on Discord
-- 😄 Pronouns: my pronouns are racial/slurs/c u/m
 - ⚡ Fun fact: I'm pretty epic 😎
 
 ## My socials:
