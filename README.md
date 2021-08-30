@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm pretty epic 😎
 
 ## My socials:
-[follow me on twitter and get a life](https://twitter.com/n3cr0jr) and get a life:
+[follow me on twitter and get a life](https://twitter.com/n3cr0jr)
 
 [reddit](https://www.reddit.com/user/n3cr0jr)
 
